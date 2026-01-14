@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953105876974",
+    "project_id": "riverpod-clean",
+    "storage_bucket": "riverpod-clean.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953105876974:android:9c0ebed8bcf0223ad8f0ff",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_clean_architecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTrLGIavjvgLFEQdNlA9LPBnjxodR47U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
